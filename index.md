@@ -1,12 +1,27 @@
 ## Welcome to Big Data Analytics Research Group of IIIT-Bangalore
 
-You can use the [editor on GitHub](https://github.com/bda-lab/bda-lab.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This research group at IIIT-Bangalore focuses on various aspects of Information Management including developing scalable Big Data processing architectures, building systems and methods to manage and process structured, semi-structured and unstructured high-velocity data from diverse sources for distributed data analytics.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Members
+Data-Lake ReasonAIR Hadoop-Stream-Reasoning
 
-### Markdown
+### Members
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Prof. Vinu E. Venugopal (faculty in-charge)
+
+#### Research Scholars/Project Interns
+
+Kautuk Raj
+
+Neelabh P Bhaskar
+
+Rachna S Kedigehalli
+
+Sai Maheedhar
+
+Siva Jagadesh
+
+Srivishnu Sunku
 
 ```markdown
 Syntax highlighted code block
