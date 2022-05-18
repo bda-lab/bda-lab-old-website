@@ -1,4 +1,4 @@
-## Welcome to <h1 style="font-size:10vw"> Big Data Analytics Research Group</h1> of IIIT-Bangalore
+## Welcome to Big Data Analytics Research Group of IIIT-Bangalore
 
 This research group at IIIT-Bangalore focuses on various aspects of Information Management including developing scalable Big Data processing architectures, building systems and methods to manage and process structured, semi-structured and unstructured high-velocity data from diverse sources for distributed data analytics.
 
