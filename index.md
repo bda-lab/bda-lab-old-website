@@ -1,4 +1,3 @@
-![Image](/Big_data logo-03.png)
 
 ## Welcome to Big Data Analytics Research Group of IIIT-Bangalore
 
