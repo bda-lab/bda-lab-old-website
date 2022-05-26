@@ -12,17 +12,12 @@ Data-Lake ReasonAIR Hadoop-Stream-Reasoning
 
 #### Research Scholars/Project Interns
 
-Kautuk Raj
-
-Neelabh P Bhaskar
-
-Rachna S Kedigehalli
-
-Sai Maheedhar
-
-Siva Jagadesh
-
-Srivishnu Sunku
+- Kautuk Raj
+- Neelabh P Bhaskar
+- Rachna S Kedigehalli
+- Sai Maheedhar
+- Siva Jagadesh
+- Srivishnu Sunku
 
 <!-- ```markdown 
 Syntax highlighted code block
