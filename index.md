@@ -8,7 +8,7 @@ Data-Lake ReasonAIR Hadoop-Stream-Reasoning
 
 ### Members
 
-[Prof. Vinu E. Venugopal](https://sites.google.com/site/vinueviitm)~(faculty in-charge)
+[Prof. Vinu E. Venugopal](https://sites.google.com/site/vinueviitm) (faculty in-charge)
 
 #### Research Scholars/Project Interns
 
