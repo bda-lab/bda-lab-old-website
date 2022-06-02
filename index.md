@@ -19,6 +19,8 @@ This research group at IIIT-Bangalore focuses on various aspects of Information 
 - Siva Jagadesh
 - Srivishnu Sunku
 
+#### Recent Publications
+
 <!-- ```markdown 
 Syntax highlighted code block
 
