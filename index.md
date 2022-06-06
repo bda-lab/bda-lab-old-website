@@ -20,6 +20,7 @@ This research group at IIIT-Bangalore focuses on various aspects of Information 
 - Srivishnu Sunku
 
 #### Recent Publications
+
 ---
 layout: default
 title: publications
@@ -40,7 +41,7 @@ title: publications
 ## Manuscripts
 
 {% bibliography -q @phdthesis %}
-You may find more information about the bibliography queries here.
+
 
 
 <!-- ```markdown 
