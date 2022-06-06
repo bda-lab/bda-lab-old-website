@@ -21,16 +21,27 @@ This research group at IIIT-Bangalore focuses on various aspects of Information 
 
 #### Recent Publications
 ---
+layout: default
+title: publications
 ---
-References
-==========
 
-@book{ruby,
-  title     = {The Ruby Programming Language},
-  author    = {Flanagan, David and Matsumoto, Yukihiro},
-  year      = {2008},
-  publisher = {O'Reilly Media}
-}
+## Journal Articles
+
+{% bibliography -q @article %}
+
+## Book Chapters
+
+{% bibliography -q @inbook %}
+
+## Conferences and Workshops
+
+{% bibliography -q @inproceedings %}
+
+## Manuscripts
+
+{% bibliography -q @phdthesis %}
+You may find more information about the bibliography queries here.
+
 
 <!-- ```markdown 
 Syntax highlighted code block
