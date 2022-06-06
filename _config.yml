@@ -2,6 +2,7 @@ theme: jekyll-theme-minimal
 title: BDA Lab 
 email: vinu.ev@iiitb.ac.in
 logo: Big_data logo-03.png
+plugin: - jekyll-scholar
 scholar:
   style: apa
   locale: en
