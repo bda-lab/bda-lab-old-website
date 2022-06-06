@@ -20,8 +20,17 @@ This research group at IIIT-Bangalore focuses on various aspects of Information 
 - Srivishnu Sunku
 
 #### Recent Publications
+---
+---
+References
+==========
 
-{% bibliography %}
+@book{ruby,
+  title     = {The Ruby Programming Language},
+  author    = {Flanagan, David and Matsumoto, Yukihiro},
+  year      = {2008},
+  publisher = {O'Reilly Media}
+}
 
 <!-- ```markdown 
 Syntax highlighted code block
