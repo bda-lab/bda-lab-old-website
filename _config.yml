@@ -12,8 +12,8 @@ scholar:
   group_by: none
   group_order: ascending
 
-  source: ./_bibliography
-  bibliography: references.bib
+  source: ./
+  bibliography: mybibfile.bib
   bibliography_template: ""
 
   replace_strings: true
