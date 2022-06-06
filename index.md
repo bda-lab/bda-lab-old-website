@@ -20,7 +20,7 @@ This research group at IIIT-Bangalore focuses on various aspects of Information 
 - Srivishnu Sunku
 
 #### Recent Publications
-
+{% bibliography %}
 <!-- ```markdown 
 Syntax highlighted code block
 
