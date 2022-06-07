@@ -18,6 +18,7 @@ This research group at IIIT-Bangalore focuses on various aspects of Information 
 - Sai Maheedhar
 - Siva Jagadesh
 - Srivishnu Sunku
+- Saikrishna Kopparapu
 
 #### Recent Publications
 
