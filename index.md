@@ -21,7 +21,7 @@ This research group at IIIT-Bangalore focuses on various aspects of Information 
 
 #### Recent Publications
 
-- Targeting Light-Weight and Multi-Channel approach for Asynchronous Stream Data Processing, Journal of Parallel and Distributed Computing (A rated) [link] (https://www.sciencedirect.com/science/article/pii/S0743731522001022?dgcid=author) 	
+- Targeting Light-Weight and Multi-Channel approach for Asynchronous Stream Data Processing, Journal of Parallel and Distributed Computing (A rated) [link](https://www.sciencedirect.com/science/article/pii/S0743731522001022?dgcid=author) 	
 
 
 
