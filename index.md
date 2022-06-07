@@ -21,26 +21,9 @@ This research group at IIIT-Bangalore focuses on various aspects of Information 
 
 #### Recent Publications
 
----
-layout: default
-title: publications
----
 
-## Journal Articles
+{% bibliography %}
 
-{% bibliography -q @article %}
-
-## Book Chapters
-
-{% bibliography -q @inbook %}
-
-## Conferences and Workshops
-
-{% bibliography -q @inproceedings %}
-
-## Manuscripts
-
-{% bibliography -q @phdthesis %}
 
 
 
