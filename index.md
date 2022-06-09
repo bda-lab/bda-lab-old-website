@@ -7,6 +7,7 @@ This research group at IIIT-Bangalore focuses on various aspects of Information 
  <a href="https://github.com/bda-uni-lu/AIR">
   <img src="test.png" alt="Data-Lake" title="Data-Lake" width="100" height="100">
   </a>
+  
   > ReasonAIR   
    
   > Hadoop-Stream-Reasoning
