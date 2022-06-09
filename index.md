@@ -7,7 +7,7 @@ This research group at IIIT-Bangalore focuses on various aspects of Information 
   <table>
   <tr>
     <td><a href="https://github.com/bda-uni-lu/AIRm">
-  <img src="datalake.png" alt="Data-Lake" title="Data-Lake" width="80" height="80">
+  <img src="datalake.png" alt="Data-Lake" title="Data-Lake" width="50" height="50">
   </a></td>
     <td>Data-Lake</td>
   </tr>
@@ -21,13 +21,13 @@ This research group at IIIT-Bangalore focuses on various aspects of Information 
   </tr>
   <tr>
        <td><a href="https://github.com/bda-uni-lu/AIR">
-  <img src="air.png" alt="AIR" title="Data-Lake" width="80" height="80">
+  <img src="air.png" alt="AIR" title="Data-Lake" width="50" height="50">
   </a></td>
     <td>AIR</td>
   </tr>
   <tr>
        <td><a href="https://github.com/bda-uni-lu/AIRm">
-  <img src="tensor.png" alt="TensAIR" title="TensAIR" width="80" height="80">
+  <img src="tensor.png" alt="TensAIR" title="TensAIR" width="50" height="50">
   </a></td>
     <td>TensAIR</td>
   </tr>
