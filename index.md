@@ -7,7 +7,7 @@ This research group at IIIT-Bangalore focuses on various aspects of Information 
   <table>
   <tr>
     <td><a href="https://github.com/bda-uni-lu/AIRm">
-  <img src="test.png" alt="Data-Lake" title="Data-Lake" width="80" height="80">
+  <img src="datalake.png" alt="Data-Lake" title="Data-Lake" width="80" height="80">
   </a></td>
     <td>Data-Lake</td>
   </tr>
