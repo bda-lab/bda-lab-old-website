@@ -10,19 +10,14 @@ This research group at IIIT-Bangalore focuses on various aspects of Information 
   
   <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
-  </tr>
-  <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td><a href="https://github.com/bda-uni-lu/AIR">
+  <img src="test.png" alt="Data-Lake" title="Data-Lake" width="100" height="100">
+  </a></td>
+    <td>Data-Lake</td>
   </tr>
   <tr>
     <td>Centro comercial Moctezuma</td>
     <td>Francisco Chang</td>
-    <td>Mexico</td>
   </tr>
 </table>
 
