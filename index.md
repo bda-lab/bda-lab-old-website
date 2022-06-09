@@ -6,7 +6,7 @@ This research group at IIIT-Bangalore focuses on various aspects of Information 
 ### Projects
   <table>
   <tr>
-    <td><a href="https://github.com/bda-uni-lu/AIR">
+    <td><a href="https://github.com/bda-uni-lu/AIRm">
   <img src="test.png" alt="Data-Lake" title="Data-Lake" width="100" height="100">
   </a></td>
     <td>Data-Lake</td>
@@ -20,11 +20,15 @@ This research group at IIIT-Bangalore focuses on various aspects of Information 
     <td>Flink-R</td>
   </tr>
   <tr>
-    <td></td>
+       <td><a href="https://github.com/bda-uni-lu/AIR">
+  <img src="air.png" alt="AIR" title="Data-Lake" width="100" height="100">
+  </a></td>
     <td>AIR</td>
   </tr>
   <tr>
-    <td></td>
+       <td><a href="https://github.com/bda-uni-lu/AIRm">
+  <img src="tensor.png" alt="TensAIR" title="TensAIR" width="100" height="100">
+  </a></td>
     <td>TensAIR</td>
   </tr>
    <tr>
