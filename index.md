@@ -44,10 +44,12 @@ This research group at IIIT-Bangalore focuses on various aspects of Information 
 - [Srivishnu Sunku](https://in.linkedin.com/in/sunku-srivishnu-18a84a192) (P: Flink-R)
 - [Saikrishna Kopparapu](https://in.linkedin.com/in/kopparapu-saikrishna-509b63205)
 
+#### Teaching
+- Cloud Computing CS838 Term-II Dec-2021 - May-2022
+ 
 #### Recent Publications
 
 - Targeting Light-Weight and Multi-Channel approach for Asynchronous Stream Data Processing, Journal of Parallel and Distributed Computing (A rated) [link](https://www.sciencedirect.com/science/article/pii/S0743731522001022?dgcid=author), Feb-2022.
-
 
 
 
