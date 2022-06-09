@@ -27,6 +27,10 @@ This research group at IIIT-Bangalore focuses on various aspects of Information 
     <td></td>
     <td>TensAIR</td>
   </tr>
+   <tr>
+    <td></td>
+    <td>KG Embedding</td>
+  </tr>
 </table>
 
 
@@ -42,7 +46,7 @@ This research group at IIIT-Bangalore focuses on various aspects of Information 
 - [Sai Maheedhar](https://in.linkedin.com/in/sai-maheedhar-rddy-vardhireddy-451204216) (P: Flink-R)
 - [Siva Jagadesh](https://siva-jagadesh.web.app/) (P: Data-Lake)
 - [Srivishnu Sunku](https://in.linkedin.com/in/sunku-srivishnu-18a84a192) (P: Flink-R)
-- [Saikrishna Kopparapu](https://in.linkedin.com/in/kopparapu-saikrishna-509b63205)
+- [Saikrishna Kopparapu](https://in.linkedin.com/in/kopparapu-saikrishna-509b63205) (P: KG Embedding)
 
 #### Teaching
 - Cloud Computing CS838 Term-II Dec-2021 - May-2022
