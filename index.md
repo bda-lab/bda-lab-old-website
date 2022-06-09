@@ -5,8 +5,11 @@ This research group at IIIT-Bangalore focuses on various aspects of Information 
 
 ### Projects
   > Data-Lake ![Data-Lake](relative/path/to/img.jpg?raw=true "Data-Lake")
-  > ReasonAIR    
+  
+  > ReasonAIR   
+   
   > Hadoop-Stream-Reasoning
+  
   > AIR
 
 ### Members
