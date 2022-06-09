@@ -4,7 +4,7 @@
 This research group at IIIT-Bangalore focuses on various aspects of Information Management including developing scalable Big Data processing architectures, building systems and methods to manage and process structured, semi-structured and unstructured high-velocity data from diverse sources for distributed data analytics.
 
 ### Projects
-  > Data-Lake ![Data-Lake](relative/path/to/img.jpg?raw=true "Data-Lake")
+  > Data-Lake ![Data-Lake](./Big_data logo-03.png "Data-Lake")
   
   > ReasonAIR   
    
