@@ -17,7 +17,7 @@ This research group at IIIT-Bangalore focuses on various aspects of Information 
   </tr>
   <tr>
     <td></td>
-    <td>Hadoop-Stream-Reasoning</td>
+    <td>Flink-R</td>
   </tr>
   <tr>
     <td></td>
@@ -36,12 +36,12 @@ This research group at IIIT-Bangalore focuses on various aspects of Information 
 
 #### Research Scholars/Project Interns
 
-- [Kautuk Raj](https://in.linkedin.com/in/kautuk-raj-969a8727)
-- [Neelabh P Bhaskar](https://neelp2121.github.io/)
-- [Rachna S Kedigehalli](https://rachnakedigehalli.github.io/)
-- [Sai Maheedhar](https://in.linkedin.com/in/sai-maheedhar-rddy-vardhireddy-451204216)
-- [Siva Jagadesh](https://siva-jagadesh.web.app/)
-- [Srivishnu Sunku](https://in.linkedin.com/in/sunku-srivishnu-18a84a192)
+- [Kautuk Raj](https://in.linkedin.com/in/kautuk-raj-969a8727) (P: ReasonAIR)
+- [Neelabh P Bhaskar](https://neelp2121.github.io/) (P: Data-Lake)
+- [Rachna S Kedigehalli](https://rachnakedigehalli.github.io/) (P: ReasonAIR)
+- [Sai Maheedhar](https://in.linkedin.com/in/sai-maheedhar-rddy-vardhireddy-451204216) (P: Flink-R)
+- [Siva Jagadesh](https://siva-jagadesh.web.app/) (P: Data-Lake)
+- [Srivishnu Sunku](https://in.linkedin.com/in/sunku-srivishnu-18a84a192) (P: Flink-R)
 - [Saikrishna Kopparapu](https://in.linkedin.com/in/kopparapu-saikrishna-509b63205)
 
 #### Recent Publications
