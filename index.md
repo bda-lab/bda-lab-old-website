@@ -44,7 +44,16 @@ This research group at IIIT-Bangalore focuses on various aspects of Information 
 
 [Prof. Vinu E. Venugopal](https://sites.google.com/site/vinueviitm) (faculty in-charge)
 
-#### Research Scholars/Project Interns
+#### Research Scholars
+
+- [Bhoomika A P] (https://www.linkedin.com/in/bhoomika-a-p-4b8a8a144/) (Ph.D.) 
+- [Prachi Naik] (https://www.linkedin.com/in/prachi-naik-5834856a/) (MS)
+
+#### Project Staff
+
+-
+
+#### Project Interns
 
 - [Kautuk Raj](https://in.linkedin.com/in/kautuk-raj-969a8727) (P: ReasonAIR)
 - [Neelabh P Bhaskar](https://neelp2121.github.io/) (P: Data-Lake)
@@ -55,6 +64,7 @@ This research group at IIIT-Bangalore focuses on various aspects of Information 
 - [Saikrishna Kopparapu](https://in.linkedin.com/in/kopparapu-saikrishna-509b63205) (P: KG Embedding)
 
 #### Teaching
+- Streaming Data Systems Term-I Aug-2022 - Jan-2023
 - Cloud Computing CS838 Term-II Dec-2021 - May-2022
  
 #### Recent Publications
