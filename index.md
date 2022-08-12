@@ -46,8 +46,8 @@ This research group at IIIT-Bangalore focuses on various aspects of Information 
 
 #### Research Scholars
 
-- [Bhoomika A P] (https://www.linkedin.com/in/bhoomika-a-p-4b8a8a144/) (Ph.D.) 
-- [Prachi Naik] (https://www.linkedin.com/in/prachi-naik-5834856a/) (MS)
+- [Bhoomika A P](https://www.linkedin.com/in/bhoomika-a-p-4b8a8a144/) (Ph.D. Aug 2022 - Present) 
+- [Prachi Naik](https://www.linkedin.com/in/prachi-naik-5834856a/) (MS Aug 2022 - Present) 
 
 #### Project Staff
 
