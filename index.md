@@ -55,7 +55,7 @@ This research group at IIIT-Bangalore focuses on various aspects of Information 
 
 #### Project Interns
 
-- [Kautuk Raj](https://in.linkedin.com/in/kautuk-raj-969a8727) (P: ReasonAIR)
+- [Kautuk Raj](https://kautukraj.github.io/) (P: ReasonAIR)
 - [Neelabh P Bhaskar](https://neelp2121.github.io/) (P: Data-Lake)
 - [Rachna S Kedigehalli](https://rachnakedigehalli.github.io/) (P: ReasonAIR)
 - [Sai Maheedhar](https://in.linkedin.com/in/sai-maheedhar-rddy-vardhireddy-451204216) (P: Flink-R)
