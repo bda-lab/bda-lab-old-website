@@ -1,7 +1,9 @@
 
-## Welcome to Big Data Analytics Research Group of IIIT-Bangalore
+## Center for Big Data Engineering & Analytics, IIIT-Bangalore
 
-This research group at IIIT-Bangalore focuses on various aspects of Information Management including developing scalable Big Data processing architectures, building systems and methods to manage and process structured, semi-structured and unstructured high-velocity data from diverse sources for distributed data analytics.
+This center was initially established to enable collaboration between the International Institute of Information Technology (IIIT-B), with City University London, as the UK partner, and Siemens Research, India, as the industry partner. 
+
+In this center, we focus on various aspects of Information Management including developing scalable Big Data processing architectures, and building systems and methods to manage and process structured, semi-structured, and unstructured high-velocity data from diverse sources for distributed data analytics. The “Big” refers to not just the volume of data, but also challenges concerning the variety, veracity, and velocity of the data. Earlier projects carried out in this center can be found on the WSL website. 
 
 ### Projects
   <table>
