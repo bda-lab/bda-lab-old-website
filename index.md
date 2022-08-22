@@ -1,5 +1,5 @@
 
-## Center for Big Data Engineering & Analytics, IIIT-Bangalore
+## Centre for Big Data Engineering & Analytics, IIIT-Bangalore
 
 This research center at International Institute of Information Technology (IIIT-B) focuses on various aspects of Information Management including developing scalable Big Data processing architectures, and building systems and methods to manage and process structured, semi-structured, and unstructured high-velocity data from diverse sources for distributed data analytics. The “Big” refers to not just the volume of data, but also challenges concerning the variety, veracity, and velocity of the data. 
 
