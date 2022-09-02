@@ -1,9 +1,9 @@
 
 ## Centre for Big Data Engineering & Analytics, IIITB
 
-This research center at [International Institute of Information Technology](https://www.iiitb.ac.in/) (IIIT-B) focuses on various aspects of Information Management including developing scalable Big Data processing architectures, and building systems and methods to manage and process structured, semi-structured, and unstructured high-velocity data from diverse sources for distributed data analytics. The “Big” refers to not just the volume of data, but also challenges concerning the variety, veracity, and velocity of the data. 
+This research center at [International Institute of Information Technology Bangalore](https://www.iiitb.ac.in/) (IIITB) focuses on various aspects of Information Management including developing scalable Big Data processing architectures, and building systems and methods to manage and process structured, semi-structured, and unstructured high-velocity data from diverse sources for distributed data analytics. The “Big” refers to not just the volume of data, but also challenges concerning the variety, veracity, and velocity of the data. 
 
-This center was originally established in 2019 with Prof. Srinath Srinivasa and Prof. Meenakshi D'Souza as the founding members to enable collaboration between IIIT-B, with [City University London](https://www.city.ac.uk/), as the UK partner, and Siemens Research, India, as the industry partner. Currently, in addition to the Royal engineering FCRA grant, the center is supported by several other grants and funding. Earlier projects carried out in this center can be found on the [WSL website](http://wsl.iiitb.ac.in/co-creation-of-a-center-of-excellence-in-big-data-engineering/).
+This center was originally established in 2019 with Prof. Srinath Srinivasa as the founding member to enable collaboration between IIIT Bangalore, with [City University London](https://www.city.ac.uk/), as the UK partner, and Siemens Research, India, as the industry partner. Currently, in addition to the Royal engineering FCRA grant, the center is supported by several other grants and funding. Earlier projects carried out in this center can be found on the [WSL website](http://wsl.iiitb.ac.in/co-creation-of-a-center-of-excellence-in-big-data-engineering/).
 
 ### Projects
   <table>
@@ -53,7 +53,7 @@ This center was originally established in 2019 with Prof. Srinath Srinivasa and 
 
 #### Project Staff
 
--
+- Aniket Mitra (1/09/2022 - present)
 
 #### Project Interns
 
