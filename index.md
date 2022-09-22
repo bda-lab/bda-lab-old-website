@@ -30,6 +30,7 @@ This center was originally established in 2019 with Prof. Srinath Srinivasa as t
   <img src="air.png" alt="AIR" title="Data-Lake" width="50" height="50">
   </a></td>
     <td>AIR</td>
+    <td>Funded completely by the University of Luxembourg. </td>
   </tr>
   <tr>
        <td><a href="https://gitlab.uni.lu/mdalle/TensAIR">
