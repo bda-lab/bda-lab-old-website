@@ -19,11 +19,12 @@ This center was originally established in 2019 with Prof. Srinath Srinivasa as t
   <img src="reasone.png" alt="Data-Lake" title="Data-Lake" width="50" height="50">
   </a></td>
     <td>ReasonAIR </td>
-    <td>In collaboration with IIIT Delhi </td>
+    <td>In collaboration with Dr. Raghava Mutharaju, IIIT Delhi </td>
   </tr>
   <tr>
     <td></td>
-    <td>Flink-R</td>
+    <td>Data Anonimizer</td>
+    <td>Funded by CIET, IIITB. In collaboration with Prof. Chandrashekar Ramanathan, IIITB </td>
   </tr>
   <tr>
        <td><a href="https://github.com/bda-uni-lu/AIR">
