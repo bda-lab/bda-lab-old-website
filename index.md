@@ -19,7 +19,7 @@ This center was originally established in 2019 with Prof. Srinath Srinivasa as t
   <img src="reasone.png" alt="Data-Lake" title="Data-Lake" width="50" height="50">
   </a></td>
     <td>ReasonAIR </td>
-    <td>In collaboration with the University of Luxembourg. Mauro Dalle Lucca Tossi and Prof. Martin Theobald are the collaborators. </td>
+    <td>In collaboration with IIIT Delhi </td>
   </tr>
   <tr>
     <td></td>
@@ -37,6 +37,7 @@ This center was originally established in 2019 with Prof. Srinath Srinivasa as t
   <img src="tensor.png" alt="TensAIR" title="TensAIR" width="50" height="50">
   </a></td>
     <td>TensAIR</td>
+    <td>In collaboration with the University of Luxembourg. Mauro Dalle Lucca Tossi and Prof. Martin Theobald are the collaborators. </td>
   </tr>
    <tr>
     <td></td>
