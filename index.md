@@ -13,9 +13,6 @@ This center was originally established in 2019 with Prof. Srinath Srinivasa as t
   </a></td>
     <td>Data-Lake</td>
   </tr>
-  </a></td>
-    <td>Funded by Gov. of Karnataka. Prof. Srinath Srinvasa and Prof. Sridhar Mandyam are the other leads.</td>
-  </tr>
   <tr>
       <td><a href="https://github.com/bda-uni-lu/AIRm">
   <img src="reasone.png" alt="Data-Lake" title="Data-Lake" width="50" height="50">
