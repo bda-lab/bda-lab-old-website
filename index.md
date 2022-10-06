@@ -40,10 +40,6 @@ This center was originally established in 2019 with Prof. Srinath Srinivasa as t
     <td>TensAIR</td>
     <td>In collaboration with the University of Luxembourg. Mauro Dalle Lucca Tossi and Prof. Martin Theobald are the collaborators. </td>
   </tr>
-   <tr>
-    <td></td>
-    <td>KG Embedding</td>
-  </tr>
 </table>
 
 
