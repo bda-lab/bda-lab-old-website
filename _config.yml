@@ -5,6 +5,8 @@ logo: Big_data logo-03.png
 plugins:
 - jekyll/scholar
 
+future: true
+
 scholar:
   style: apa
   locale: en
