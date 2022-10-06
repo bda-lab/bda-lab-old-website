@@ -19,7 +19,7 @@ This center was originally established in 2019 with Prof. Srinath Srinivasa as t
   <img src="reasone.png" alt="Data-Lake" title="Data-Lake" width="50" height="50">
   </a></td>
     <td>ReasonAIR </td>
-    <td>In collaboration with Dr. Raghava Mutharaju, IIIT Delhi </td>
+    <td>In collaboration with [Dr. Raghava Mutharaju](https://www.iiitd.ac.in/raghavam), IIIT Delhi </td>
   </tr>
   <tr>
     <td></td>
