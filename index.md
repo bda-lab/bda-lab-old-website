@@ -8,7 +8,7 @@ This center was originally established in 2019 with Prof. Srinath Srinivasa as t
 test line
 
 ### Projects
-<tr <td>>
+</td>
   <table>
   <tr>
     <td><a href="https://github.com/bda-uni-lu/AIRm">
